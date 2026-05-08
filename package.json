@@ -1,0 +1,10 @@
+{
+  "name": "saga-luxury-stays-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix saga-fixed run dev",
+    "install": "npm --prefix saga-fixed install",
+    "build": "npm --prefix saga-fixed run build",
+    "test": "npm --prefix saga-fixed test"
+  }
+}
